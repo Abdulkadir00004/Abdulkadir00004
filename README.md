@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Abdulkadir00004
-- 👀 I’m interested in computer programming
-- 🌱 I’m currently learning introduction to computer science
-- 💞️ I’m looking to collaborate on health software development
 - 📫 How to reach me my email abdulkadiribnidris2@gmail.com
 
 <!---
